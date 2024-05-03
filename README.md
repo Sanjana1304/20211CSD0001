@@ -1,6 +1,6 @@
 Qn 1 - Avg calc
 
-Output Screenshots:
+# Output Screenshots:
 
 <img width="765" alt="Screenshot 2024-05-03 at 11 32 35 AM" src="https://github.com/Sanjana1304/20211CSD0001/assets/64159652/929c44f5-5a7d-41da-a92b-a260d96aeb1a">
 
